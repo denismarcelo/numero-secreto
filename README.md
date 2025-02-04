@@ -6,10 +6,10 @@
 
 ## :page_facing_up: Índice
 
-* [:open_book: Descrição do projeto] (#descrição-do-projeto)
-* [:computer: Tecnologias utilizadas] (#tecnologias-utilizadas)
-* [:game_die: Como jogar] (#como-jogar)
-* [:bust_in_silhouette: Autor do projeto] (#autor-do-projeto)
+* [:open_book: Descrição do projeto](#descrição-do-projeto)
+* [:computer: Tecnologias utilizadas](#tecnologias-utilizadas)
+* [:game_die: Como jogar](#como-jogar)
+* [:bust_in_silhouette: Autor do projeto](#autor-do-projeto)
 
 ## :open_book: Descrição do projeto
 
@@ -36,9 +36,6 @@ com a menor quantidade de tentativas possível.
 
 ## :bust_in_silhouette: Autor do projeto
 
-<a href="https://github.com/denismarcelo">
-  <img src="https://github.com/denismarcelo.png" width="100px" alt="Imagem do Autor">
-</a>
-
-**[Denis Marcelo](https://github.com/denismarcelo)**
-| :---: |
+| <a href="https://github.com/denismarcelo"><img src="https://github.com/denismarcelo.png" width="100px"></a> |
+|:--:|
+| **[Denis Marcelo](https://github.com/denismarcelo)** |

@@ -1,7 +1,5 @@
 <h1 align="center"> Jogo do Número Secreto </h1>
 
-# :green_circle: Status do projeto
-
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
@@ -24,7 +22,7 @@ com a menor quantidade de tentativas possível.
 
 - `Preencha o campo`: Para jogar, basta escolher um número e inserí-lo neste campo em branco:
 ![Imagem indicando o campo](https://github.com/user-attachments/assets/a9dc33b3-9457-404c-81ad-b3b0fb623ffc)
-- `Botão "Chutar"`: Após preencher o campo, aperte o botão "Chutar" para fazer a verificação de seu chute
+- `Botão "Chutar"`: Após preencher o campo, aperte o botão "Chutar" para fazer a verificação de seu chute.
 ![Imagem indicando o Chutar](https://github.com/user-attachments/assets/ff7063ea-c169-4c64-bfd6-e5c26633522b)
 - `Botão "Novo Jogo"`: Este botão só fica disponível quando o jogador acerta o número secreto, e, quando pressionado, reinicia o jogo gerando um novo Número Secreto.
 
@@ -37,5 +35,9 @@ com a menor quantidade de tentativas possível.
 
 # :bust_in_silhouette: Autor do projeto
 
-| [<img loading="lazy" src="https://github.com/user-attachments/assets/a81e6e59-0e28-43c7-ad5f-d6772dfa6f39" width=115><br><sub>Denis Marcelo</sub>](link do meu github](https://github.com/denismarcelo)
+| <a href="https://github.com/denismarcelo">
+  <img src="https://github.com/denismarcelo.png" width="100px" alt="Imagem do Autor">
+</a>
+
+**[Denis Marcelo](https://github.com/denismarcelo)**
 | :---: |

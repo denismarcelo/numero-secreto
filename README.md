@@ -6,10 +6,10 @@
 
 ## :page_facing_up: Índice
 
-* [:open_book: Descrição do projeto](#descricao-do-projeto)
-* [:game_die: Como jogar](#como-jogar)
-* [:computer: Tecnologias utilizadas](#tecnologias-utilizadas)
-* [:bust_in_silhouette: Autor do projeto](#autor-do-projeto)
+* [Descrição do projeto](#descricao-do-projeto)
+* [Como jogar](#como-jogar)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Autor do projeto](#autor-do-projeto)
 
 ## Descrição do projeto :open_book:
 

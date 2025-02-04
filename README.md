@@ -6,7 +6,7 @@
 
 ## :page_facing_up: Índice
 
-* [Descrição do projeto](#descricao-do-projeto)
+* [Descrição do projeto](#descrição-do-projeto)
 * [Como jogar](#como-jogar)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Autor do projeto](#autor-do-projeto)

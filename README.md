@@ -11,13 +11,13 @@
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Autor do projeto](#autor-do-projeto)
 
-## Descrição do projeto 📖
+## Descrição do projeto
 
  Este é um projeto inicial feito baseado nos conhecimentos adquiridos pela Alura, que é uma plataforma de ensino focada em tecnologia
 e programação. O Jogo do Número Secreto gera automaticamente um número aleatório em que a ideia é o jogador adivinhar este número
 com a menor quantidade de tentativas possível.
 
-## Como jogar 🎲
+## Como jogar
 
 - `Preencha o campo`: Para jogar, basta escolher um número e inserí-lo neste campo em branco:
 
@@ -27,14 +27,14 @@ com a menor quantidade de tentativas possível.
 ![Imagem indicando o Chutar](https://github.com/user-attachments/assets/ff7063ea-c169-4c64-bfd6-e5c26633522b)
 - `Botão "Novo Jogo"`: Este botão só fica disponível quando o jogador acerta o número secreto, e, quando pressionado, reinicia o jogo gerando um novo Número Secreto.
 
-## Tecnologias utilizadas 💻
+## Tecnologias utilizadas
 
 - `JavaScript`
 - `HTML`
 - `Visual Studio Code`
 - `Git`
 
-## Autor do projeto 👤
+## Autor do projeto
 
 | <a href="https://github.com/denismarcelo"><img src="https://github.com/denismarcelo.png" width="100px"></a> |
 |:--:|
